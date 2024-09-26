@@ -6,5 +6,4 @@ This is a course about how to make robots move through and interact with their e
 
 ## some results
 Simulate a falling brick （solve QP prolem using the Augmented Lagrangian method)
-
-
+<img src="/Pics/simulat brick.gif" width=40%>
